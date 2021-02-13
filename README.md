@@ -7,6 +7,7 @@
 - Amazon Web Services (EKS, Lambda)
 - Monitoring, Logging
 - Infrastructure as Code (Ansible, Terraform)
+- Python (Boto3, Click)
 
 <div align=center>
 
