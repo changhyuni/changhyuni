@@ -3,7 +3,7 @@
 - DevOps Engineer
 
 ### Interest
-- DevOps/SRE (Cloud Infrastructure Management - Kubernetes, Automation)
+- DevOps/SRE (Cloud Infrastructure Management - Kubernetes, Task Automation)
 - Amazon Web Services (EKS, Lambda)
 - Monitoring, Logging
 - Infrastructure as Code (Ansible, Terraform)
