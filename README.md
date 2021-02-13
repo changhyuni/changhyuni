@@ -5,9 +5,10 @@
 ### Interest
 - DevOps/SRE (Cloud Infrastructure Management - Kubernetes, Task Automation)
 - Amazon Web Services (EKS, Lambda)
-- Monitoring, Logging
-- Infrastructure as Code (Ansible, Terraform)
 - Python (Boto3, Click)
+- Infrastructure as Code (Ansible, Terraform)
+- Monitoring, Logging
+
 
 <div align=center>
 
