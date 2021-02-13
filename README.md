@@ -1,6 +1,6 @@
 
 ### DevOps Engineer
-- DevOps Engineer
+- DevOps Engineer (Cloud Engineer)
 
 ### Interest
 - DevOps/SRE (Cloud Infrastructure Management - Kubernetes, Task Automation)
