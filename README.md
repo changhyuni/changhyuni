@@ -1,6 +1,5 @@
-
 ### Software Engineer Infrastructure
-- DevOps Engineer (Cloud Engineer)
+- DevOps Engineer in EdTech(Math for Machine Learning, Education)
 
 ### Interest
 - DevOps/SRE (Cloud Infrastructure Management - Kubernetes, Task Automation)
