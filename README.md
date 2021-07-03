@@ -9,7 +9,7 @@
 - Amazon Web Services (EKS, Lambda, ECS)
 - Python (Boto3, Click)
 - Infrastructure as Code (Ansible, Terraform)
-- Monitoring, Logging
+- Monitoring, Logging (Elstic Stack, Grafana)
 
 
 <div align=center>
