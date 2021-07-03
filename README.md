@@ -1,6 +1,8 @@
 ### Software Engineer Infrastructure
 - DevOps Engineer in EdTech 
 
+<img align="right" alt="GIF" src="./m1_01.gif" />
+
 ### Interest
 - DevOps/SRE (Cloud Infrastructure Management - Kubernetes, Task Automation)
 - Amazon Web Services (EKS, Lambda, ECS)
