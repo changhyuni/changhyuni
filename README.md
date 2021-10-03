@@ -14,7 +14,7 @@
 
 <div align=center>
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@bhs9610)](https://velog.io/@bhs9610) 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@bhs9610)](https://medium.com/@dlfp125) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlfp125@gmail.com)](mailto:dlfp125@gmail.com)
 </div>
 
