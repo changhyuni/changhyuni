@@ -1,7 +1,7 @@
 <img align="right" alt="GIF" src="./m1_01.gif" />  
 
 ### Software Engineer Infrastructure
-- DevOps Engineer in Fin
+- DevOps Engineer in Banking
 
 
 ### Interest
