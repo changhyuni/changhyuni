@@ -1,12 +1,11 @@
 <img align="right" alt="GIF" src="./m1_01.gif" />  
 
 ### Software Engineer Infrastructure
-- DevOps Engineer at KakaoBank
+- Cloud Engineer at KakaoBank
 
 
 ### Interest
-- DevOps/SRE (Cloud Infrastructure Management - Kubernetes, Task Automation)
-- Amazon Web Services (EKS, Lambda, ECS)
+- DevSecOps (OPA Rego, AWS Security)
 - Python (Boto3, Click)
 - Infrastructure as Code (Ansible, Terraform)
 - Monitoring, Logging (Elstic Stack, Grafana)
