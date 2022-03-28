@@ -9,6 +9,7 @@
 - Python (Boto3, Click)
 - Infrastructure as Code (Ansible, Terraform)
 - Monitoring, Logging (Elstic Stack, Grafana)
+- K8S / Istio
 
 
 <div align=center>
